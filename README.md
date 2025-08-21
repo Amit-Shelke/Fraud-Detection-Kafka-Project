@@ -161,6 +161,6 @@ suspicious_transactions.write.csv("suspicious_transactions.csv", mode="overwrite
 ---
 
 ## **Contributing**
-Contributions are welcome! If you find a bug or want to add a feature, feel free to open an issue or submit a pull request.
-Rights reserved @Amit Shelke
+_Contributions are welcome! If you find a bug or want to add a feature, feel free to open an issue or submit a pull request.
+Rights reserved @Amit Shelke_
 ---
